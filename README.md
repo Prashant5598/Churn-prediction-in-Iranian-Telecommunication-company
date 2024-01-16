@@ -1,4 +1,4 @@
-# Project_2: Iranian Churn Prediction using Matlab
+# Churn Prediction
 
 In this project, the focus revolves around addressing two pivotal research questions: "How effective are classification models in predicting churn for an Iranian dataset?" and "What key factors contribute significantly to churn within the company?"
 
